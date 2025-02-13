@@ -9,10 +9,15 @@ The P2 factories require 7,680 units of P1 to run for a full 24hr cycle, and wil
 --Synthetic Synapses Production Requirements--
 
 Planets and Extracted Resources:
+
 Ice - Planktonic Colonies
+
 Gas - Noble Gas
+
 Gas/Barren - Aqueous Liquids
+
 Barren - Microorganisms 
+
 Any - P2/P3 production factories
 
 
